@@ -1,3 +1,8 @@
+This build has used many cool technologies react, redux, firebase and much more to checkout this build please visit (https://netflix-clone-d580a.web.app/)
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
